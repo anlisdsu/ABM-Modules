@@ -7,6 +7,7 @@
 ; Major changes from the last version (Version 5.2)
 ; 1) Updated the rules in flow-change according to Anne's version 3--see the Info section.
 ; 2) The dates are calcuated to be days 27, 60, 61, 62, and 63 for Aug. 9, Sept 11, 12, 13, and 14 (if July 13, 2013 is day 0)
+; Today is Feb 13, 2015--we are having a meeting
     
 ;breed [segments segment]
 
